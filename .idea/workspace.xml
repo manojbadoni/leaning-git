@@ -22,8 +22,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="375">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+=======
+            <state relative-caret-position="125">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+>>>>>>> add another p tag
             </state>
           </provider>
         </entry>
@@ -148,8 +153,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="375">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+=======
+        <state relative-caret-position="125">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+>>>>>>> add another p tag
         </state>
       </provider>
     </entry>

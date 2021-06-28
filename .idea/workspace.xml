@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f9dce11e-7ccc-482a-9db1-e559467d1bdb" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -10,6 +11,9 @@
       <change afterPath="$PROJECT_DIR$/learning-git.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+=======
+    <list default="true" id="f9dce11e-7ccc-482a-9db1-e559467d1bdb" name="Default Changelist" comment="" />
+>>>>>>> nothing
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,12 +27,17 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="375">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
 =======
             <state relative-caret-position="125">
               <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
 >>>>>>> add another p tag
+=======
+            <state relative-caret-position="300">
+              <caret line="12" lean-forward="true" selection-end-line="12" />
+>>>>>>> nothing
             </state>
           </provider>
         </entry>
@@ -154,12 +163,17 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="375">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
 =======
         <state relative-caret-position="125">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
 >>>>>>> add another p tag
+=======
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-end-line="12" />
+>>>>>>> nothing
         </state>
       </provider>
     </entry>
